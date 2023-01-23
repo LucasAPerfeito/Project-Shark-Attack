@@ -15,8 +15,6 @@
   - Agrupar
   - Categorizar dados
 # Technologies 
-
-  List with used technologies, ex:
   - Python
   - Pandas
   - Seaborn
