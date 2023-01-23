@@ -27,15 +27,15 @@
  
 
 # Steps
-  1 - Corte dos nulos usando o seaborn e visualizando que mais de 60% dos dados estavam vazios
-  2 - A coluna de gênero estava majoritariamente preenchida e seguia um padrão. 
-  3 - 89% dos ataques que tinham informações sobre sexo do atacado são homens (11% mulheres)
-  4 - Fiz um corte temporal(só casos que aconteceram depois de 1950), por conta dos casos e as informações sobre os casos mais antigos
-  5 - 70% dos dados são depois de 1950 e a média da coluna de anos era 1927 então esses casos mais antigos ponderavam para um lado, mas decidi não analisá-los.
-  6 - Apesar dos homens serem mais atacados pelos tubarões teve alguns anos que as mulheres foram bem mais atacadas (2007, 2017, 2010, 1993) mais de 20% dos casos anuais foram em mulheres
-  7 - Da mesma maneira que tem agluns anos que as mulheres foram mais atacadas tem alguns países que elas são o foco, como Espanha e Egito. 
-  8 - Categorizei as atividades em grandes grupos (Surfing, Swimming, Boat, Diving, Fishing, Interating with sharks e outros)
-  9 - Proporcionalmente as atividades que menos impactam as mulhreses são pesca, surfe e mergulhando. E a que mais impacta é nadando.
+  1. Corte dos nulos usando o seaborn e visualizando que mais de 60% dos dados estavam vazios
+  2. A coluna de gênero estava majoritariamente preenchida e seguia um padrão. 
+  3. 89% dos ataques que tinham informações sobre sexo do atacado são homens (11% mulheres)
+  4. Fiz um corte temporal(só casos que aconteceram depois de 1950), por conta dos casos e as informações sobre os casos mais antigos
+  5. 70% dos dados são depois de 1950 e a média da coluna de anos era 1927 então esses casos mais antigos ponderavam para um lado, mas decidi não analisá-los.
+  6. Apesar dos homens serem mais atacados pelos tubarões teve alguns anos que as mulheres foram bem mais atacadas (2007, 2017, 2010, 1993) mais de 20% dos casos anuais foram em mulheres
+  7. Da mesma maneira que tem agluns anos que as mulheres foram mais atacadas tem alguns países que elas são o foco, como Espanha e Egito. 
+  8. Categorizei as atividades em grandes grupos (Surfing, Swimming, Boat, Diving, Fishing, Interating with sharks e outros)
+  9. Proporcionalmente as atividades que menos impactam as mulhreses são pesca, surfe e mergulhando. E a que mais impacta é nadando.
   10 - Nesse ponto 9 proporção tem que ser levado em conta uma vez que em valores absolutos essas ordens são diferentes, porém a natureza da atividade e os ataques são levados em consideração.
 
 # Conclusion
