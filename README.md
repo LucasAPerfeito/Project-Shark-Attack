@@ -40,7 +40,7 @@
   11. Para analisar esse efeito, categorizei as atividades em grandes grupos (Surfing, Swimming, Boat, Diving, Fishing, Interating with sharks e outros)
   12. Percebi uma disparidade na proporção de atividades que homens e mulheres estavam praticando no momento em que foram atacados.
   13. Proporcionalmente as atividades que menos impactam as mulhreses são pesca, surfe e mergulhando. E a que mais impacta é nadando. Enquanto os homens são impactados surfando e pescando.
-  14. Só para fortalecer o ponto 13 é importante lembrar que os valores absolutos de cada atividade apresentam uma ordem diferente, mas a porporção é a que foi utilizada e levada em consideração.
+  14. Só para fortalecer o ponto 14 é importante lembrar que os valores absolutos de cada atividade apresentam uma ordem diferente, mas a porporção é a que foi utilizada e levada em consideração.
 
 # Conclusion
   Os homens são sem duvidas mais atacados por tubarões em quase todas as regiões do mundo, as principais atividades que originam ataques, são surfe, nadar no mar e pesca,
